@@ -1,6 +1,6 @@
 ## HiByMe! 👋
 
-# 🏛️ STG‑Chain: The Sovereign Titan Genesis
+# 🏛️  The Sovereign Titan Genesis
 
 *"Turning Crises into Opportunity through Sovereign Intelligence & Native Assets."*
 
