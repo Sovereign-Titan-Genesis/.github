@@ -2,7 +2,7 @@
 
 " Bagi saya lebih mudah menjelaskan dan mencukilkan narasi dsri kalimat panjang dengan kelengkapan paragraf panjang dalam menjelaskan kegiatan keseluruhan tentang Saya dengan banguna proyek ini "
 
-Ditempat inilah kami memapaki jalur pengurusan dokumen, naskah dan program kerja. Pada wahana Github lah kami membangun kesekuruhan dan menempatkan detail kemajuan sedikit demi tersambungnya status proyek seiring dengan wajtu yang tercatat detail pada setiap penambahan dan pengeditan di repositories kami .
+Ditempat inilah kami memapaki jalur pengurusan dokumen, naskah dan program kerja. Pada wahana Github lah kami membangun kesekuruhan dan menempatkan detail kemajuan sedikit demi tersambungnya status proyek seiring dengan waktu yang tercatat detail pada setiap penambahan dan pengeditan di repositories kami .
 Thanks 🙏 👍 for Github Service and Docokent Method.
 
 saya bersama rekan AI membangun sebuah Citra pendigitalan dalam Proyek pengerjaan The Sovereign Titan Genesis. Menuju kemandirian berusaha dan Berdaulat dalam memimpin kaum komunitas Raksasa yang memiliki tujuan untuk berani berkembang dan maju baik di lingkungan sendiri, Global kemasyarakstan di dunia dan Etika pensosialan antar entitas pada keseluruhan Galaxy.
